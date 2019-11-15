@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4434a004-dabc-4cf3-933c-577ddf1ce4aa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573805236285</updated>
-      <workItem from="1573805237851" duration="11736000" />
+      <workItem from="1573805237851" duration="12003000" />
     </task>
     <task id="LOCAL-00001" summary="Done!">
       <created>1573825877102</created>
@@ -101,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573826367985</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Done!">
+      <created>1573826521708</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573826521708</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,10 +122,10 @@
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
     <state x="2186" y="1200" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.3840.2120@0.0.3840.2120" timestamp="1573825092607" />
-    <state x="1853" y="958" key="CommitChangelistDialog2" timestamp="1573826367188">
+    <state x="1853" y="958" key="CommitChangelistDialog2" timestamp="1573826520878">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
-    <state x="1853" y="958" key="CommitChangelistDialog2/0.0.3840.2120@0.0.3840.2120" timestamp="1573826367188" />
+    <state x="1853" y="958" key="CommitChangelistDialog2/0.0.3840.2120@0.0.3840.2120" timestamp="1573826520878" />
     <state x="2162" y="1278" key="NewPhpClassDialog" timestamp="1573825357851">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
@@ -128,10 +134,10 @@
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
     <state x="2274" y="1373" key="NewPhpFileDialog/0.0.3840.2120@0.0.3840.2120" timestamp="1573807831242" />
-    <state x="1811" y="1095" key="Vcs.Push.Dialog.v2" timestamp="1573826383112">
+    <state x="1811" y="1095" key="Vcs.Push.Dialog.v2" timestamp="1573826529208">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
-    <state x="1811" y="1095" key="Vcs.Push.Dialog.v2/0.0.3840.2120@0.0.3840.2120" timestamp="1573826383112" />
+    <state x="1811" y="1095" key="Vcs.Push.Dialog.v2/0.0.3840.2120@0.0.3840.2120" timestamp="1573826529208" />
     <state x="991" y="690" width="2456" height="1337" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1573824527299">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>

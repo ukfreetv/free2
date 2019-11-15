@@ -9,6 +9,8 @@ The database connection config is in free2/siteconfig.php
 
 - This isn't a complete version of what was asked for, but what was doable in a couple of hours.
 
+- The start route is http://localhost:5678/demo/demo
+
 - The system doesn't use postcodes.io, but a demo version of the full PAF.  The docs for that are at
   https://www.poweredbypaf.com/wp-content/uploads/2017/07/Latest-Programmers_guide_Edition-7-Version-6.pdf
   
