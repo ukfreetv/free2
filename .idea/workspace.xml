@@ -2,67 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4434a004-dabc-4cf3-933c-577ddf1ce4aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/free2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSV PAF.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commonErrorHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/free2/application/routedemo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/free2/registrationDemo/CoreInputFields.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/free2/registrationDemo/GeneralValidation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/free2/registrationDemo/MakeInputForm.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/free2/registrationDemo/MakeOptionSelect.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/free2/registrationDemo/PafInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/free2/registrationDemo/ProcessInsert.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/free2/registrationDemo/coreExample.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/free2/siteconfig.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imp.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pseph/nff/Base.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pseph/nff/formation/ActiveHtml5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pseph/nff/formation/ActiveHtml5.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pseph/nff/formation/CsvBase.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pseph/nff/formation/HeadHelper.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pseph/nff/formation/Html5View.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pseph/nff/formation/HtmlHeader.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pseph/nff/formation/JsMin.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pseph/nff/formation/MinifyHtml.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pseph/nff/formation/ReduceOutputRedudnacy.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pseph/nff/formation/SpecilisedHtmlHeaders.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pseph/nff/formation/XmlEvent.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pseph/nff/formation/config/HeaderConfig.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pseph/nff/formation/config/Piwik.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pseph/nff/framework/Psr4AutoloaderClass.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pseph/nff/framework/RouteToRouter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pseph/nff/framework/SecuityBase.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pseph/nff/framework/SecurityServices.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pseph/nff/framework/UrSlugCleaner.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pseph/nff/framework/config/SystemConfig.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pseph/nff/gateway/Database.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pseph/nff/gateway/DatabaseConnectionSingleton.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pseph/nff/gateway/GlobalDbLoggerSystem.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pseph/nff/gateway/IsThisWritable.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pseph/nff/gateway/MemcacheServer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pseph/nff/gateway/MysqliCompress.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pseph/nff/gateway/config/Database.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pseph/nff/gateway/config/databaseconfig.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pseph/nff/services/Session.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/free2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tables/tblPAF.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tables/tblSessions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tables/tblUserdata.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tables/tblUsers.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/StaticValues.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/helper/core.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/helper/html.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/helper/xml.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,18 +85,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573805236285</updated>
-      <workItem from="1573805237851" duration="11118000" />
+      <workItem from="1573805237851" duration="11492000" />
     </task>
+    <task id="LOCAL-00001" summary="Done!">
+      <created>1573825877102</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573825877102</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Done!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done!" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2186" y="1200" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1573825092607">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
     <state x="2186" y="1200" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.3840.2120@0.0.3840.2120" timestamp="1573825092607" />
+    <state x="1853" y="958" key="CommitChangelistDialog2" timestamp="1573825875316">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="1853" y="958" key="CommitChangelistDialog2/0.0.3840.2120@0.0.3840.2120" timestamp="1573825875316" />
     <state x="2162" y="1278" key="NewPhpClassDialog" timestamp="1573825357851">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
@@ -164,6 +121,10 @@
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
     <state x="2274" y="1373" key="NewPhpFileDialog/0.0.3840.2120@0.0.3840.2120" timestamp="1573807831242" />
+    <state x="1811" y="1095" key="Vcs.Push.Dialog.v2" timestamp="1573825891551">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="1811" y="1095" key="Vcs.Push.Dialog.v2/0.0.3840.2120@0.0.3840.2120" timestamp="1573825891551" />
     <state x="991" y="690" width="2456" height="1337" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1573824527299">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
