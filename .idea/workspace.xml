@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4434a004-dabc-4cf3-933c-577ddf1ce4aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/free2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSV PAF.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commonErrorHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free2/application/routedemo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free2/registrationDemo/CoreInputFields.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free2/registrationDemo/GeneralValidation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free2/registrationDemo/MakeInputForm.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free2/registrationDemo/MakeOptionSelect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free2/registrationDemo/PafInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free2/registrationDemo/ProcessInsert.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free2/registrationDemo/coreExample.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/free2/siteconfig.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pseph/nff/Base.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pseph/nff/formation/ActiveHtml5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pseph/nff/formation/ActiveHtml5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pseph/nff/formation/CsvBase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pseph/nff/formation/HeadHelper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pseph/nff/formation/Html5View.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pseph/nff/formation/HtmlHeader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pseph/nff/formation/JsMin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pseph/nff/formation/MinifyHtml.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pseph/nff/formation/ReduceOutputRedudnacy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pseph/nff/formation/SpecilisedHtmlHeaders.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pseph/nff/formation/XmlEvent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pseph/nff/formation/config/HeaderConfig.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pseph/nff/formation/config/Piwik.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pseph/nff/framework/Psr4AutoloaderClass.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pseph/nff/framework/RouteToRouter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pseph/nff/framework/SecuityBase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pseph/nff/framework/SecurityServices.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pseph/nff/framework/UrSlugCleaner.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pseph/nff/framework/config/SystemConfig.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pseph/nff/gateway/Database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pseph/nff/gateway/DatabaseConnectionSingleton.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pseph/nff/gateway/GlobalDbLoggerSystem.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pseph/nff/gateway/IsThisWritable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pseph/nff/gateway/MemcacheServer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pseph/nff/gateway/MysqliCompress.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pseph/nff/gateway/config/Database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pseph/nff/gateway/config/databaseconfig.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pseph/nff/services/Session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/free2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tables/tblPAF.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tables/tblSessions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tables/tblUserdata.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tables/tblUsers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/StaticValues.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/helper/core.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/helper/html.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/helper/xml.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web.config" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Te0QNibmN5q9dhRci7e2tK6ist" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tables" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Briantist\Desktop\websites\free2\view" />
+      <recent name="C:\Users\Briantist\Desktop\websites\free2\view\helper" />
+      <recent name="C:\Users\Briantist\Desktop\websites\free2\free2" />
+      <recent name="C:\Users\Briantist\Desktop\websites\free2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Briantist\Desktop\websites\free2\tables" />
+      <recent name="C:\Users\Briantist\Desktop\websites\free2\view\helper" />
+      <recent name="C:\Users\Briantist\Desktop\websites\free2\pseph\nff" />
+      <recent name="C:\Users\Briantist\Desktop\websites\free2\pseph\nff\services" />
+      <recent name="C:\Users\Briantist\Desktop\websites\free2\pseph\nff\framework" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4434a004-dabc-4cf3-933c-577ddf1ce4aa" name="Default Changelist" comment="" />
+      <created>1573805236285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573805236285</updated>
+      <workItem from="1573805237851" duration="11118000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2186" y="1200" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1573825092607">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="2186" y="1200" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.3840.2120@0.0.3840.2120" timestamp="1573825092607" />
+    <state x="2162" y="1278" key="NewPhpClassDialog" timestamp="1573825357851">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="2162" y="1278" key="NewPhpClassDialog/0.0.3840.2120@0.0.3840.2120" timestamp="1573825357851" />
+    <state x="2274" y="1373" key="NewPhpFileDialog" timestamp="1573807831242">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="2274" y="1373" key="NewPhpFileDialog/0.0.3840.2120@0.0.3840.2120" timestamp="1573807831242" />
+    <state x="991" y="690" width="2456" height="1337" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1573824527299">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="991" y="690" width="2456" height="1337" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.3840.2120@0.0.3840.2120" timestamp="1573824527299" />
+    <state x="2157" y="1208" width="598" height="466" key="find.popup" timestamp="1573814408050">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="2157" y="1208" width="598" height="466" key="find.popup/0.0.3840.2120@0.0.3840.2120" timestamp="1573814408050" />
+    <state x="1875" y="662" key="run.anything.popup" timestamp="1573825817594">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="1875" y="662" key="run.anything.popup/0.0.3840.2120@0.0.3840.2120" timestamp="1573825817594" />
+    <state x="1202" y="963" width="672" height="678" key="search.everywhere.popup" timestamp="1573811558472">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="1202" y="963" width="672" height="678" key="search.everywhere.popup/0.0.3840.2120@0.0.3840.2120" timestamp="1573811558472" />
+  </component>
+</project>
